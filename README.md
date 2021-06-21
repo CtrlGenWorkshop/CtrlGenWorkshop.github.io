@@ -12,8 +12,6 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
 
 ## Speakers
 
-## Organizers
-
 <!-- Organizers -->
 <div class="row" id="organizers">
   <div class="col-xs-12">
@@ -50,7 +48,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.linkedin.com/in/drew-a-hudson">
-      <img class="people-pic" src="{{ "/images/organizers/drew_hudson.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/images/organizers/drew_hudson.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.linkedin.com/in/drew-a-hudson">Drew Hudson</a>
