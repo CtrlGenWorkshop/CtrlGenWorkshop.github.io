@@ -117,7 +117,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
 ### Additional Panelists
 
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
+  <div class="column2">
     <a href="https://sebastiangehrmann.com/">
       <img class="people-pic" src="{{ "/images/speakers/sebastian_gehrmann.jpg" | prepend:site.baseurl }}">
     </a>
@@ -126,7 +126,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
       <h6>Google AI</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-3">
+  <div class="column2">
     <a href="https://ai.facebook.com/people/angela-fan/">
       <img class="people-pic" src="{{ "/images/speakers/angela_fan.jpg" | prepend:site.baseurl }}">
     </a>
