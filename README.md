@@ -158,12 +158,12 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     </div></p>
   </div>
   <div class="column2">
-    <p><a href="https://anushabala.github.io/">
-      <img class="people-pic" src="{{ "/images/organizers/anusha_balakrishnan.jpg" | prepend:site.baseurl }}">
+    <p><a href="http://styfeng.github.io/">
+      <img class="people-pic" src="{{ "/images/organizers/steven_feng.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://anushabala.github.io/">Anusha Balakrishnan</a>
-      <h6>Microsoft Semantic Machines</h6>
+      <a href="http://styfeng.github.io/">Steven Y. Feng</a>
+      <h6>Carnegie Mellon University</h6>
     </div></p>
     <p><a href="https://dykang.github.io/">
       <img class="people-pic" src="{{ "/images/organizers/dongyeop_kang.jpg" | prepend:site.baseurl }}">
@@ -174,12 +174,12 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     </div></p>
   </div>
   <div class="column2">
-    <p><a href="http://styfeng.github.io/">
-      <img class="people-pic" src="{{ "/images/organizers/steven_feng.jpg" | prepend:site.baseurl }}">
+    <p><a href="https://anushabala.github.io/">
+      <img class="people-pic" src="{{ "/images/organizers/anusha_balakrishnan.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://styfeng.github.io/">Steven Y. Feng</a>
-      <h6>Carnegie Mellon University</h6>
+      <a href="https://anushabala.github.io/">Anusha Balakrishnan</a>
+      <h6>Microsoft Semantic Machines</h6>
     </div></p>
     <p><a href="http://vgtomahawk.github.io/">
       <img class="people-pic" src="{{ "/images/organizers/varun_gangal.jpg" | prepend:site.baseurl }}">
