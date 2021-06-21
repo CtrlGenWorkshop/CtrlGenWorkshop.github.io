@@ -14,6 +14,96 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
 
 ## Organizers
 
+<!-- Organizers -->
+<div class="row" id="organizers">
+  <div class="col-xs-12">
+    <h2>Organizers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://catalinacangea.netlify.app/">
+      <img class="people-pic" src="{{ "/static/img/people/catalinacangea.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://catalinacangea.netlify.app/">Cătălina Cangea</a>
+      <h6>University of Cambridge</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://abhishekdas.com">
+      <img class="people-pic" src="{{ "/static/img/people/abhishek-das-dp.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://abhishekdas.com">Abhishek Das</a>
+      <h6>Facebook AI Research</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.linkedin.com/in/drew-a-hudson">
+      <img class="people-pic" src="{{ "/static/img/people/drew.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.linkedin.com/in/drew-a-hudson">Drew Hudson</a>
+      <h6>Stanford</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://jacobkrantz.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/jacobkrantz.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jacobkrantz.github.io/">Jacob Krantz</a>
+      <h6>Oregon State University</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.cc.gatech.edu/~slee3191/">
+      <img class="people-pic" src="{{ "/static/img/people/stefan.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
+      <h6>Oregon State University</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://jiayuanm.com/">
+      <img class="people-pic" src="{{ "/static/img/people/jiayuanmao.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://jiayuanm.com/">Jiayuan Mao</a>
+      <h6>MIT</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://fstrub95.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/florianstrub.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://fstrub95.github.io/">Florian Strub</a>
+      <h6>DeepMind</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://alanesuhr.com/">
+      <img class="people-pic" src="{{ "/static/img/people/alane.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://alanesuhr.com/">Alane Suhr</a>
+      <h6>Cornell</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://wijmans.xyz/">
+      <img class="people-pic" src="{{ "/static/img/people/erikwijmans.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://wijmans.xyz/">Erik Wijmans</a>
+      <h6>Georgia Tech</h6>
+    </div>
+  </div>
+</div>
+
 - Bulleted
 - List
 
