@@ -8,13 +8,8 @@ Achieving these ambitious but important goals introduces challenges not only fro
 
 In this workshop, we propose to bring together researchers from the NLP, Vision, and ML communities to discuss the current challenges and explore potential directions for controllable generation and improve its quality, correctness, and diversity. As excitement about language and image generation has significantly increased recently thanks to the advent and improvement of large language models, transformer networks, and GANs, we feel this is the opportune time to hold a new workshop about this subject. We hope CtrlGen will foster discussion and interaction across NLP, Vision, and ML communities, including areas that range from structured prediction to disentanglement, and allow for fruitful cross-domain relations that may open the door for enhanced controllability in language and image generation.
 
-## Schedule
+## Invited Speakers
 
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
-  </div>
-</div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://homes.cs.washington.edu/~yejin/">
@@ -81,12 +76,9 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
   </div>
 </div>
 
-<!-- Organizers -->
-<div class="row" id="organizers">
-  <div class="col-xs-12">
-    <h2>Organizers</h2>
-  </div>
-</div>
+
+## Organizers
+
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="http://thashim.com">
