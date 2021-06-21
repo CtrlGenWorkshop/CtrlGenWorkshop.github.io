@@ -61,6 +61,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <div class="people-name">
           <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
           <h6>University of Washington</h6>
+        </div>
     </div>
     <div class="column2">
         <a href="http://www.thespermwhale.com/jaseweston/">
@@ -69,6 +70,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <div class="people-name">
           <a href="http://www.thespermwhale.com/jaseweston/">Jason Weston</a>
           <h6>Facebook AI</h6>
+        </div>
     </div>
     <div class="column2">
         <a href="https://hhexiy.github.io/">
@@ -77,6 +79,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <div class="people-name">
           <a href="https://hhexiy.github.io/">He He</a>
           <h6>New York University</h6>
+        </div>
     </div>
     <div class="column2">
         <a href="https://www.alextamkin.com/">
@@ -85,6 +88,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <div class="people-name">
           <a href="https://www.alextamkin.com/">Alex Tamkin</a>
           <h6>Stanford University</h6>
+        </div>
     </div>
 </div>
 
