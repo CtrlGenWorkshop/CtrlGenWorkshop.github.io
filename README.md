@@ -1,4 +1,4 @@
-CtrlGen is a workshop about controllable generation for vision and language that aims to bring together researchers from ML, NLP, and Vision. We feature an exciting lineup of speakers, panel discussion, interactive activities, and networking/mentorship opportunities.
+CtrlGen is a workshop about controllable generation for vision and language that aims to bring together researchers from ML, NLP, and Vision. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking/mentorship opportunities.
 
 ## Workshop Description
 
