@@ -32,7 +32,19 @@
   width: 80%;
 }
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .column2 {
   float: left;
   width: 25%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
