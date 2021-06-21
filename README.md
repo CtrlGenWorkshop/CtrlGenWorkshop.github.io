@@ -8,6 +8,27 @@ Achieving these ambitious but important goals introduces challenges not only fro
 
 In this workshop, we propose to bring together researchers from the NLP, Vision, and ML communities to discuss the current challenges and explore potential directions for controllable generation and improve its quality, correctness, and diversity. As excitement about language and image generation has significantly increased recently thanks to the advent and improvement of large language models, transformer networks, and GANs, we feel this is the opportune time to hold a new workshop about this subject. We hope CtrlGen will foster discussion and interaction across NLP, Vision, and ML communities, including areas that range from structured prediction to disentanglement, and allow for fruitful cross-domain relations that may open the door for enhanced controllability in language and image generation.
 
+## Schedule (Tentative)
+
+9:00 - 9:10 & Opening Remarks & 10 min
+9:10 - 10:00 & First & Second Invited Talks (+QA)
+10:00 - 10:15 & Virtual Coffee/Networking Break
+10:15 - 11:05 & Third & Fourth Invited Talks (+QA)
+11:05 - 11:35 & Topic Breakout Rooms
+11:35 - 12:15 & Virtual Poster Session #1
+12:15 - 13:00 & Lunch Break
+13:00 - 13:20 & Demonstrations / Interactive Activity
+13:20 - 14:10 & Fifth & Sixth Invited Talks (+QA)
+14:10 - 14:25 & Virtual Coffee/Networking Break
+14:25 - 15:05 & Virtual Poster Session #2
+15:05 - 15:25 & Demonstrations / Interactive Activity
+15:25 - 15:50 & Seventh Invited Talk (+QA)
+15:50 - 17:00 & Panel and QA Session with Speakers
+17:00 - 17:15 & Best Paper Awards and Closing Remarks
+17:15 onwards & GatherTown Open (for continued socializing)
+
+
+
 ## Invited Speakers and Panelists
 
 <div class="row">
