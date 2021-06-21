@@ -8,7 +8,7 @@ Achieving these ambitious but important goals introduces challenges not only fro
 
 In this workshop, we propose to bring together researchers from the NLP, Vision, and ML communities to discuss the current challenges and explore potential directions for controllable generation and improve its quality, correctness, and diversity. As excitement about language and image generation has significantly increased recently thanks to the advent and improvement of large language models, transformer networks, and GANs, we feel this is the opportune time to hold a new workshop about this subject. We hope CtrlGen will foster discussion and interaction across NLP, Vision, and ML communities, including areas that range from structured prediction to disentanglement, and allow for fruitful cross-domain relations that may open the door for enhanced controllability in language and image generation.
 
-## Invited Speakers
+## Invited Speakers and Panelists
 
 <div class="row">
   <div class="col-xs-6 col-lg-3">
@@ -72,6 +72,30 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     <div class="people-name">
       <a href="https://orpatashnik.github.io/">Or Patashnik</a>
       <h6>Tel-Aviv University</h6>
+    </div>
+  </div>
+</div>
+
+
+### Additional Panelists
+
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://sebastiangehrmann.com/">
+      <img class="people-pic" src="{{ "/images/speakers/sebastian_gehrmann.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://sebastiangehrmann.com/">Sebastian Gehrmann</a>
+      <h6>Google AI</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="{https://ai.facebook.com/people/angela-fan/">
+      <img class="people-pic" src="{{ "/images/speakers/angela_fan.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="{https://ai.facebook.com/people/angela-fan/">Angela Fan</a>
+      <h6>LORIA and Facebook AI</h6>
     </div>
   </div>
 </div>
