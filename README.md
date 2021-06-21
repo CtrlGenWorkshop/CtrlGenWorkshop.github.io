@@ -49,7 +49,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <p>GatherTown Open (for continued socializing)</p>
     </div>
 </div>  
-
+<br/><br/>
 
 ## Invited Speakers and Panelists
 
