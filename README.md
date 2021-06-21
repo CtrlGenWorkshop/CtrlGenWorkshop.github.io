@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+CtrlGen is a workshop about controllable generation for vision and language that aims to bring together researchers from ML, NLP and Vision. We feature an exciting line of speakers, panel discussion, interactive activities, and networking/mentorship opportunities.
 
-You can use the [editor on GitHub](https://github.com/CtrlGenWorkshop/CtrlGenWorkshop.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Workshop Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over the past few years, there has been an increased interest in the areas of language and image generation within the ML, NLP, and Vision communities. As generated texts by models like GPT-3 start to sound more fluid and natural, and generated images and videos by GAN models appear more realistic, researchers began focusing on qualitative properties of the generated content such as the ability to control its style and structure, or incorporate information from external sources and other texts or images into the output. Such aims are extremely important to make language and image generation useful for human-machine interaction and other real-world applications including machine co-creativity (assisting humans in artistic creations such as paintings, stories, and music), entertainment and marketing, ethical purposes such as reducing biases or toxicity, and improving the ability of conversational agents and personal assistants to effectively communicate with humans.
 
-### Markdown
+Achieving these ambitious but important goals introduces challenges not only from NLP and Vision perspectives, but also ones that closely pertain to Machine Learning as a whole, which has concurrently witnessed a growing body of research in relevant domains such as interpretability, disentanglement, robustness, and representation learning. We believe that progress towards the realization of human-like language and image generation may thus benefit greatly from insights and progress in these and other ML areas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this workshop, we propose to bring together researchers from the NLP, Vision, and ML communities to discuss the current challenges and explore potential directions for controllable generation and improve its quality, correctness, and diversity. As excitement about language and image generation has significantly increased recently thanks to the advent and improvement of large language models, transformer networks, and GANs, we feel this is the opportune time to hold a new workshop about this subject. We hope CtrlGen will foster discussion and interaction across NLP, Vision, and ML communities, including areas that range from structured prediction to disentanglement, and allow for fruitful cross-domain relations that may open the door for enhanced controllability in language and image generation.
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +27,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CtrlGenWorkshop/CtrlGenWorkshop.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
