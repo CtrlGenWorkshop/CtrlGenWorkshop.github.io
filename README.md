@@ -146,7 +146,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
       <img class="people-pic" src="{{ "/images/organizers/tatsu_hashimoto.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://thashim.com">Tatsunori B. Hashimoto</a>
+      <a href="http://thashim.com">Tatsunori Hashimoto</a>
       <h6>Stanford University</h6>
     </div></p>
     <p><a href="https://www.cs.rochester.edu/~tetreaul/academic.html">
