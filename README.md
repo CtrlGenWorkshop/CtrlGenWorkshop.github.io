@@ -13,45 +13,41 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
 
 <div class="row">
     <div class="column left">
-        <h2>Time</h2>
-        <p>Data..</p>
+        <p>9:00 - 9:10</p>
+        <p>9:10 - 10:00</p>
+        <p>10:00 - 10:15</p>
+        <p>10:15 - 11:05</p>
+        <p>11:05 - 11:35</p>
+        <p>11:35 - 12:15</p>
+        <p>12:15 - 13:00</p>
+        <p>13:00 - 13:20</p>
+        <p>13:20 - 14:10</p>
+        <p>14:10 - 14:25</p>
+        <p>14:25 - 15:05</p>
+        <p>15:05 - 15:25</p>
+        <p>15:25 - 15:50</p>
+        <p>15:50 - 17:00</p>
+        <p>17:00 - 17:15</p>
+        <p>17:15 onwards</p>
     </div>
     <div class="column right">
-        <h2>Activity</h2>
-        <p>Data..</p>
+        <p>Opening Remarks & 10 min</p>
+        <p>First & Second Invited Talks (+QA)</p>
+        <p>Virtual Coffee/Networking Break</p>
+        <p>Third & Fourth Invited Talks (+QA)</p>
+        <p>Topic Breakout Rooms</p>
+        <p>Virtual Poster Session #1</p>
+        <p>Lunch Break</p>
+        <p>Demonstrations / Interactive Activity</p>
+        <p>Fifth & Sixth Invited Talks (+QA)</p>
+        <p>Virtual Coffee/Networking Break</p>
+        <p>Virtual Poster Session #2</p>
+        <p>Demonstrations / Interactive Activity</p>
+        <p>Seventh Invited Talk (+QA)</p>
+        <p>Panel and QA Session with Speakers</p>
+        <p>Best Paper Awards and Closing Remarks</p>
+        <p>GatherTown Open (for continued socializing)</p>
     </div>
-
-9:00 - 9:10 & Opening Remarks & 10 min
-
-9:10 - 10:00 & First & Second Invited Talks (+QA)
-
-10:00 - 10:15 & Virtual Coffee/Networking Break
-
-10:15 - 11:05 & Third & Fourth Invited Talks (+QA)
-
-11:05 - 11:35 & Topic Breakout Rooms
-
-11:35 - 12:15 & Virtual Poster Session #1
-
-12:15 - 13:00 & Lunch Break
-
-13:00 - 13:20 & Demonstrations / Interactive Activity
-
-13:20 - 14:10 & Fifth & Sixth Invited Talks (+QA)
-
-14:10 - 14:25 & Virtual Coffee/Networking Break
-
-14:25 - 15:05 & Virtual Poster Session #2
-
-15:05 - 15:25 & Demonstrations / Interactive Activity
-
-15:25 - 15:50 & Seventh Invited Talk (+QA)
-
-15:50 - 17:00 & Panel and QA Session with Speakers
-
-17:00 - 17:15 & Best Paper Awards and Closing Remarks
-
-17:15 onwards & GatherTown Open (for continued socializing)
 
 
 ## Invited Speakers and Panelists
