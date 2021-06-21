@@ -21,11 +21,11 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="{http://www.thespermwhale.com/jaseweston/">
+    <a href="http://www.thespermwhale.com/jaseweston/">
       <img class="people-pic" src="{{ "/images/speakers/jason_weston.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="{http://www.thespermwhale.com/jaseweston/">Jason Weston</a>
+      <a href="http://www.thespermwhale.com/jaseweston/">Jason Weston</a>
       <h6>Facebook AI</h6>
     </div>
   </div>
@@ -90,11 +90,11 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="{https://ai.facebook.com/people/angela-fan/">
+    <a href="https://ai.facebook.com/people/angela-fan/">
       <img class="people-pic" src="{{ "/images/speakers/angela_fan.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="{https://ai.facebook.com/people/angela-fan/">Angela Fan</a>
+      <a href="https://ai.facebook.com/people/angela-fan/">Angela Fan</a>
       <h6>LORIA and Facebook AI</h6>
     </div>
   </div>
