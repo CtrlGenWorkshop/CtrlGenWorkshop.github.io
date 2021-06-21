@@ -12,9 +12,14 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
 ## Schedule (Tentative)
 
 <div class="row">
-  <div class="left"></div>
-  <div class="right"></div>
-</div>
+    <div class="column left">
+        <h2>Time</h2>
+        <p>Data..</p>
+    </div>
+    <div class="column right">
+        <h2>Activity</h2>
+        <p>Data..</p>
+    </div>
 
 9:00 - 9:10 & Opening Remarks & 10 min
 
