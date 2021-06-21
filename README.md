@@ -31,7 +31,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <p>17:15 onwards</p>
     </div>
     <div class="column right">
-        <p>Opening Remarks & 10 min</p>
+        <p>Opening Remarks</p>
         <p>First & Second Invited Talks (+QA)</p>
         <p>Virtual Coffee/Networking Break</p>
         <p>Third & Fourth Invited Talks (+QA)</p>
