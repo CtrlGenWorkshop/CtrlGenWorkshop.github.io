@@ -11,6 +11,11 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
 
 ## Schedule (Tentative)
 
+<div class="row">
+  <div class="left"></div>
+  <div class="right"></div>
+</div>
+
 9:00 - 9:10 & Opening Remarks & 10 min
 
 9:10 - 10:00 & First & Second Invited Talks (+QA)
