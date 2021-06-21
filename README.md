@@ -31,57 +31,57 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://abhishekdas.com">
-      <img class="people-pic" src="{{ "/images/organizers/abhishek-das-dp.jpg" | prepend:site.baseurl }}">
+    <a href="https://anushabala.github.io/">
+      <img class="people-pic" src="{{ "/images/organizers/anusha_balakrishnan.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://abhishekdas.com">Abhishek Das</a>
-      <h6>Facebook AI Research</h6>
+      <a href="https://anushabala.github.io/">Anusha Balakrishnan</a>
+      <h6>Microsoft Semantic Machines</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://styfeng.github.io/">
+      <img class="people-pic" src="{{ "/images/organizers/steven_feng.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://styfeng.github.io/">Steven Y. Feng</a>
+      <h6>Carnegie Mellon University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.linkedin.com/in/drew-a-hudson">
-      <img class="people-pic" src="{{ "/images/organizers/drew.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/images/organizers/drew_hudson.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.linkedin.com/in/drew-a-hudson">Drew Hudson</a>
-      <h6>Stanford</h6>
+      <h6>Stanford University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://jacobkrantz.github.io/">
-      <img class="people-pic" src="{{ "/images/organizers/jacobkrantz.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.cs.rochester.edu/~tetreaul/academic.html">
+      <img class="people-pic" src="{{ "/images/organizers/joel_tetreault.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://jacobkrantz.github.io/">Jacob Krantz</a>
-      <h6>Oregon State University</h6>
+      <a href="https://www.cs.rochester.edu/~tetreaul/academic.html">Joel Tetreault</a>
+      <h6>Dataminr, Inc.</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cc.gatech.edu/~slee3191/">
-      <img class="people-pic" src="{{ "/images/organizers/stefan.png" | prepend:site.baseurl }}">
+    <a href="https://dykang.github.io/">
+      <img class="people-pic" src="{{ "/images/organizers/dongyeop_kang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
-      <h6>Oregon State University</h6>
+      <a href="https://dykang.github.io/">Dongyeop Kang</a>
+      <h6>UC Berkeley</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://jiayuanm.com/">
-      <img class="people-pic" src="{{ "/images/organizers/jiayuanmao.jpg" | prepend:site.baseurl }}">
+    <a href="http://vgtomahawk.github.io/">
+      <img class="people-pic" src="{{ "/images/organizers/varun_gangal.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://jiayuanm.com/">Jiayuan Mao</a>
-      <h6>MIT</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://fstrub95.github.io/">
-      <img class="people-pic" src="{{ "/images/organizers/florianstrub.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://fstrub95.github.io/">Florian Strub</a>
-      <h6>DeepMind</h6>
+      <a href="http://vgtomahawk.github.io/">Varun Gangal</a>
+      <h6>Carnegie Mellon University</h6>
     </div>
   </div>
 </div>
