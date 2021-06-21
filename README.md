@@ -48,8 +48,8 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <p>Best Paper Awards and Closing Remarks</p>
         <p>GatherTown Open (for continued socializing)</p>
     </div>
-</div>  
-<br/><br/>
+</div>
+
 
 ## Invited Speakers and Panelists
 
