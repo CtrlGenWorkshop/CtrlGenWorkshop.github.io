@@ -45,7 +45,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.alextamkin.com/">
-      <img class="people-pic" src="{{ "/images/speakers/alex_tamkin.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/images/speakers/alex_tamkin.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.alextamkin.com/">Alex Tamkin</a>
@@ -72,7 +72,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://orpatashnik.github.io/">
-      <img class="people-pic" src="{{ "/images/speakers/or_patashnik" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/images/speakers/or_patashnik.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://orpatashnik.github.io/">Or Patashnik</a>
