@@ -112,7 +112,6 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         </div></p>
     </div>
 </div>
-</div>
 
 
 ### Additional Panelists
