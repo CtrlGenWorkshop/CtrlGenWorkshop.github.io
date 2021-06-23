@@ -1,3 +1,20 @@
+<!DOCTYPE HTML>
+<html lang="en"><head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155284865-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155284865-2');
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
 CtrlGen is a workshop about controllable generation for vision and language that aims to bring together researchers from ML, NLP, and Vision. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking/mentorship opportunities.
 
 ## Workshop Description
