@@ -13,7 +13,7 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
-CtrlGen is a workshop aiming to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We aim to bring together researchers from ML, NLP, and Vision. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
+CtrlGen is a workshop aiming to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
 
 ## Workshop Description
 
@@ -68,7 +68,7 @@ We also welcome the introduction and exploration of new controllability tasks.
 
 ### Submission Instructions
 
-Papers will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) and go through double-blind review. Submissions should be fully anonymized, with up to 8 pages of content and unlimited references and appendices, following the [NeurIPS style template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). Supplementary material in the form of code and small data files can be submitted separately. 
+Papers will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) and go through double-blind review. Submissions should be a single .pdf file that is fully anonymized, with up to 8 pages of content and unlimited references and appendices, following the [NeurIPS style template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). Supplementary material in the form of code and small data files can be submitted separately as a single .zip file. 
 
 Accepted papers will be presented as posters and hosted on our workshop website. Note that the workshop is non-archival. While original submissions are preferred, we also welcome works currently under review, but discourage papers already accepted and published elsewhere, including at the NeurIPS main conference. 
 
