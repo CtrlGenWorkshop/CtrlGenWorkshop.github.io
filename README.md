@@ -13,7 +13,7 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
-CtrlGen is a workshop about controllable generation for vision and language that aims to bring together researchers from ML, NLP, and Vision. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking/mentorship opportunities.
+CtrlGen is a workshop aiming to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We aim to bring together researchers from ML, NLP, and Vision. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
 
 ## Workshop Description
 
@@ -78,7 +78,7 @@ We especially encourage submissions from those with diverse backgrounds, such as
 - Submission Deadline: **September 20, 2021**
 - Acceptance Notification: October 22, 2021
 - Camera-Ready Deadline: November 1, 2021
-- Workshop Date: December 13 or 14, 2021 (TBD)
+- Workshop Date: **December 13, 2021**
 
 Note that the above deadlines are all 11:59pm AOE.
 
