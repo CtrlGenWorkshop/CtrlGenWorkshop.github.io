@@ -52,6 +52,7 @@ Exploration of particular controllability tasks including:
 - Constrained generation tasks, including concept (or keywords) to text or image generation
 - Image synthesis and scene representation in both 2D and 3D
 - Cross-modal tasks such as controllable image or video captioning and generation from text
+
 We also welcome the introduction and exploration of new controllability tasks.
 
 ### Evaluation and Benchmarks:
