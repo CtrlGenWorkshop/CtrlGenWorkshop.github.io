@@ -42,7 +42,6 @@ We invite submissions on the following topics of interest and more:
 - The introduction and exploration of new applications for controllability.
 
 ### Tasks:
-The introduction and exploration of new controllability tasks.
 Exploration of particular controllability tasks including:
 - [Aspect-based summarization](https://arxiv.org/abs/2011.07832)
 - [Semantic text exchange](https://aclanthology.org/D19-1272/)
@@ -53,6 +52,7 @@ Exploration of particular controllability tasks including:
 - Constrained generation tasks, including concept (or keywords) to text or image generation
 - Image synthesis and scene representation in both 2D and 3D
 - Cross-modal tasks such as controllable image or video captioning and generation from text
+We also welcome the introduction and exploration of new controllability tasks.
 
 ### Evaluation and Benchmarks:
 - Establishment of standard and unified metrics and benchmark tasks to efficiently and effectively compare different methods for controllable generation.
@@ -67,7 +67,7 @@ Exploration of particular controllability tasks including:
 
 ### Submission Instructions
 
-Papers will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) and go through double-blind review. Submissions should be fully anonymized, with up to 8 pages of content and unlimited references and appendices, following the NeurIPS [style template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). Supplementary material in the form of code and small data files can be submitted separately. 
+Papers will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) and go through double-blind review. Submissions should be fully anonymized, with up to 8 pages of content and unlimited references and appendices, following the [NeurIPS style template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). Supplementary material in the form of code and small data files can be submitted separately. 
 
 Accepted papers will be presented as posters and hosted on our workshop website. Note that the workshop is non-archival. While original submissions are preferred, we also welcome works currently under review, but discourage papers already accepted and published elsewhere, including at the NeurIPS main conference. 
 
@@ -76,7 +76,7 @@ We especially encourage submissions from those with diverse backgrounds, such as
 ### Important Dates
 - Submission Deadline: **September 20, 2021**
 - Acceptance Notification: October 22, 2021
-- Camera-Ready Submission: November 1, 2021
+- Camera-Ready Deadline: November 1, 2021
 - Workshop Date: December 13 or 14, 2021 (TBD)
 
 Note that the above deadlines are all 11:59pm AOE.
