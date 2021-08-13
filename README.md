@@ -79,6 +79,8 @@ We especially encourage submissions from those with diverse backgrounds, such as
 - Camera-Ready Submission: November 1, 2021
 - Workshop Date: December 13 or 14, 2021 (TBD)
 
+Note that the above deadlines are all 11:59pm AOE.
+
 
 ## Schedule (Tentative)
 
