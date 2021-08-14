@@ -76,7 +76,7 @@ We especially encourage submissions from those with diverse backgrounds, such as
 
 
 ## Important Dates
-- Submission Deadline: **September 20, 2021**
+- Submission Deadline: **September 27, 2021**
 - Acceptance Notification: October 22, 2021
 - Camera-Ready Deadline: November 1, 2021
 - Workshop Date: **December 13, 2021**
