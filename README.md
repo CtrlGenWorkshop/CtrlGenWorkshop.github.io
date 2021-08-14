@@ -13,7 +13,7 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
-CtrlGen is a workshop aiming to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
+CtrlGen is a NeurIPS 2021 workshop aiming to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
 
 ## Workshop Description
 
@@ -26,7 +26,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
 
 ## Call for Papers
 
-We invite submissions on the following topics of interest and more:
+We invite submissions on the following topics of interest and more.
 
 ### Methodology and Algorithms:
 - New methods and algorithms for controllability.
