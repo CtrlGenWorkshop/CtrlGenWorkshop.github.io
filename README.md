@@ -18,6 +18,10 @@ CtrlGen is a **[NeurIPS 2021](https://neurips.cc/Conferences/2021/)** workshop t
 Contact: [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com)
 
 
+## Call for Papers
+Please see our <A HREF="CFP.md">call for papers</A> page for details.
+
+
 ## Workshop Description
 
 Over the past few years, there has been an increased interest in the areas of language and image generation within the ML, NLP, and Vision communities. As generated texts by models like GPT-3 start to sound more fluid and natural, and generated images and videos by GAN models appear more realistic, researchers began focusing on qualitative properties of the generated content such as the ability to control its style and structure, or incorporate information from external sources and other texts or images into the output. Such aims are extremely important to make language and image generation useful for human-machine interaction and other real-world applications including machine co-creativity, entertainment, ethical purposes, enhanced training for self-driving vehicles, and improving the ability of conversational agents and personal assistants to effectively interact.
@@ -76,10 +80,6 @@ Papers will be submitted using our [CMT submission portal](https://cmt3.research
 Accepted papers will be presented as posters and hosted on our workshop website. Note that the workshop is non-archival. While original submissions are preferred, we also welcome works currently under review, but discourage papers already accepted and published elsewhere, including at the NeurIPS main conference. We especially encourage submissions from those with diverse backgrounds, such as minority or underrepresented groups and junior researchers.
 
 Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com) if you have any inquiries.
-
-
-## Call for Papers
-Please see our <A HREF="CFP.md">call for papers</A> page for details.
 
 
 ## Important Dates
