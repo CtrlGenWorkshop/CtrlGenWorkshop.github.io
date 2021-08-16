@@ -1,4 +1,4 @@
-##"CtrlGen: Controllable Generative Modeling in Language and Vision"
+#"CtrlGen: Controllable Generative Modeling in Language and Vision"
 
 ## Call for Papers
 
