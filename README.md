@@ -19,7 +19,7 @@ Contact: [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com)
 
 
 ## Call for Papers
-Please see our <A HREF="CFP.md">call for papers</A> page for details.
+Please see our [call for papers](CFP.md) page for details.
 
 
 ## Important Dates
