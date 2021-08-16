@@ -86,7 +86,7 @@ Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gm
 
 Note that the above deadlines are all 11:59pm AOE.
 
-Please see our <A HREF="pages/CFP.md">call for papers</A>.
+Please see our <A HREF="CFP.md">call for papers</A>.
 
 
 ## Schedule (Tentative)
