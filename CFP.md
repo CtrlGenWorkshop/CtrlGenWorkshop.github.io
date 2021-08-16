@@ -5,7 +5,7 @@
 
 ## Call for Papers
 
-We invite submissions on the following topics of interest and more. Paper submission deadline: **September 27, 2021**. If you are interested in submitting a demo instead, please see [this page](demo.md) for details.
+We invite submissions on the following topics of interest and more. Paper submission deadline: **September 27, 2021**. If you are interested in submitting a demo instead, please see [this page](demos.md) for details.
 
 ### Methodology and Algorithms:
 - New methods and algorithms for controllability.
@@ -17,6 +17,7 @@ We invite submissions on the following topics of interest and more. Paper submis
 
 ### Applications and Ethics:
 - Applications of controllability including machine co-creativity, entertainment, data augmentation (for [text](https://arxiv.org/abs/2105.03075) and [vision](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0)), ethics (e.g. bias and toxicity reduction), enhanced training for self-driving vehicles, and improving conversational agents.
+- Some examples of creative AI and entertainment applications include controllable poetry, lyrics, music, image, and video generation.
 - Ethical issues and challenges related to controllable generation including the risks and dangers of deepfake and fake news, and methods to mitigate and combat them.
 - The introduction and exploration of new applications for controllability.
 
@@ -47,7 +48,7 @@ We also welcome the introduction and exploration of new controllability tasks.
 
 ### Submission Instructions
 
-Papers will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) and go through double-blind review. Submissions should be a single .pdf file that is fully anonymized, with up to 8 pages of content and unlimited references and appendices, following the [NeurIPS style template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). Supplementary material in the form of code and small data files can be submitted separately as a single .zip file. An option to upload supplementary material shows up in the author console after the paper is submitted. Please ensure to select the "paper" category when submitting.
+Papers will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) and go through double-blind review. Please ensure to select the "paper" category when submitting. Submissions should be a single .pdf file that is fully anonymized, with up to 8 pages of content and unlimited references and appendices, following the [NeurIPS style template](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles). Supplementary material in the form of code and small data files can be submitted separately as a single .zip file. An option to upload supplementary material shows up in the author console after the paper is submitted. 
 
 Accepted papers will be presented as posters and hosted on our workshop website. Note that the workshop is non-archival. While original submissions are preferred, we also welcome works currently under review, but discourage papers already accepted and published elsewhere, including at the NeurIPS main conference. We especially encourage submissions from those with diverse backgrounds, such as minority or underrepresented groups and junior researchers.
 
