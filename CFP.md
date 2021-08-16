@@ -1,3 +1,8 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="“width=800”">
+</head>
+
 ## Call for Papers
 
 We invite submissions on the following topics of interest and more.
