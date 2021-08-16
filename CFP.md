@@ -16,7 +16,7 @@ We invite submissions on the following topics of interest and more. Paper submis
 - Unsupervised models such as [VAEs](https://arxiv.org/abs/1905.11975) and self-supervised approaches for controllability.
 
 ### Applications and Ethics:
-- Applications of controllability including machine co-creativity, entertainment, data augmentation (for [text](https://arxiv.org/abs/2105.03075) and [vision](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0)), ethics (e.g. bias and toxicity reduction), enhanced training for self-driving vehicles, and improving conversational agents.
+- Applications of controllability including creative AI, machine co-creativity, entertainment, data augmentation (for [text](https://arxiv.org/abs/2105.03075) and [vision](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0)), ethics (e.g. bias and toxicity reduction), enhanced training for self-driving vehicles, and improving conversational agents.
 - Some examples of creative AI and entertainment applications include controllable poetry, lyrics, music, image, and video generation.
 - Ethical issues and challenges related to controllable generation including the risks and dangers of deepfake and fake news, and methods to mitigate and combat them.
 - The introduction and exploration of new applications for controllability.
