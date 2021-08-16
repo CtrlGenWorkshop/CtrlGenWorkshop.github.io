@@ -1,5 +1,3 @@
-#"CtrlGen: Controllable Generative Modeling in Language and Vision"
-
 ## Call for Papers
 
 We invite submissions on the following topics of interest and more.
