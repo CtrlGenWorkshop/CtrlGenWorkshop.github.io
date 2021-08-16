@@ -13,9 +13,9 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
-CtrlGen is a [NeurIPS 2021](https://neurips.cc/Conferences/2021/) workshop taking place virtually on Monday, December 13, 2021. It aims to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
+CtrlGen is a **[NeurIPS 2021](https://neurips.cc/Conferences/2021/) workshop** taking place virtually on **Monday, December 13, 2021**. It aims to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
 
-Contact: [ctrlgenworkshop@gmail.com](ctrlgenworkshop@gmail.com)
+Contact: [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com)
 
 
 ## Workshop Description
@@ -75,7 +75,7 @@ Papers will be submitted using our [CMT submission portal](https://cmt3.research
 
 Accepted papers will be presented as posters and hosted on our workshop website. Note that the workshop is non-archival. While original submissions are preferred, we also welcome works currently under review, but discourage papers already accepted and published elsewhere, including at the NeurIPS main conference. We especially encourage submissions from those with diverse backgrounds, such as minority or underrepresented groups and junior researchers.
 
-Feel free to contact us at [ctrlgenworkshop@gmail.com](ctrlgenworkshop@gmail.com) if you have any inquiries.
+Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com) if you have any inquiries.
 
 
 ## Important Dates
