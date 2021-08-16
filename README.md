@@ -18,14 +18,16 @@ CtrlGen is a **[NeurIPS 2021](https://neurips.cc/Conferences/2021/)** workshop t
 Contact: [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com)
 
 
-## Call for Papers
-Please see our [call for papers](CFP.md) page for details.
+## Call for Papers and Demonstrations
+Please see our [call for papers](CFP.md) and [call for demonstrations](demos.md) pages for details.
 
 
 ## Important Dates
-- Submission Deadline: **September 27, 2021**
-- Acceptance Notification: October 22, 2021
-- Camera-Ready Deadline: November 1, 2021
+- Paper Submission Deadline: **September 27, 2021**
+- Paper Acceptance Notification: October 22, 2021
+- Paper Camera-Ready Deadline: November 1, 2021
+- Demo Submission Deadline: **October 29, 2021**
+- Demo Acceptance Notification: November 19, 2021
 - Workshop Date: **December 13, 2021**
 
 Note that the above deadlines are all 11:59pm AOE.
