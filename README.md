@@ -78,6 +78,10 @@ Accepted papers will be presented as posters and hosted on our workshop website.
 Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com) if you have any inquiries.
 
 
+## Call for Papers
+Please see our <A HREF="CFP.md">call for papers</A> page for details.
+
+
 ## Important Dates
 - Submission Deadline: **September 27, 2021**
 - Acceptance Notification: October 22, 2021
@@ -85,8 +89,6 @@ Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gm
 - Workshop Date: **December 13, 2021**
 
 Note that the above deadlines are all 11:59pm AOE.
-
-Please see our <A HREF="CFP.md">call for papers</A>.
 
 
 ## Schedule (Tentative)
