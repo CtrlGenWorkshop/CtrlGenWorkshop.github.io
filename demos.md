@@ -22,7 +22,7 @@ We encourage demonstrations of all forms. This includes those for research and a
 
 ### Submission Instructions
 
-Please record a brief (e.g. 3-5 minute) video showcasing and explaining your demo. Demonstrations will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) in a single .zip file (containing the recording). Please ensure to select the "demo" category when submitting. Accepted demonstrations will be presented during our workshop and hosted on our workshop website. Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com) if you have any inquiries.
+Please record a brief (e.g. 3-5 minute) video showcasing and explaining your demo. Demonstrations will be submitted using our [CMT submission portal](https://cmt3.research.microsoft.com/CtrlGen2021/Submission/Index) in a single .zip file (containing the recording). Please ensure to select the "Demos" category when submitting. Accepted demonstrations will be presented during our workshop and hosted on our workshop website. Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com) if you have any inquiries.
 
 
 ## Important Dates
