@@ -83,6 +83,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     </div>
 </div>
 
+Note that the above times are American timezone, e.g. PST.
 
 ## Invited Speakers and Panelists
 
