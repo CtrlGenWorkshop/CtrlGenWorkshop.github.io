@@ -48,25 +48,27 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     <div class="column left">
         <p>9:00 - 9:10</p>
         <p>9:10 - 10:00</p>
-        <p>10:00 - 10:20</p>
-        <p>10:20 - 11:10</p>
-        <p>11:10 - 12:10</p>
-        <p>12:10 - 13:00</p>
-        <p>13:00 - 13:30</p>
-        <p>13:30 - 14:20</p>
-        <p>14:20 - 14:40</p>
-        <p>14:40 - 15:40</p>
-        <p>15:40 - 16:10</p>
-        <p>16:10 - 16:35</p>
-        <p>16:35 - 18:00</p>
-        <p>18:00 - 18:20</p>
-        <p>18:20 onwards</p>
+        <p>10:00 - 10:15</p>
+        <p>10:15 - 11:05</p>
+        <p>11:05 - 11:35</p>
+        <p>11:35 - 12:15</p>
+        <p>12:15 - 13:00</p>
+        <p>13:00 - 13:20</p>
+        <p>13:20 - 14:10</p>
+        <p>14:10 - 14:25</p>
+        <p>14:25 - 15:05</p>
+        <p>15:05 - 15:25</p>
+        <p>15:25 - 15:50</p>
+        <p>15:50 - 17:00</p>
+        <p>17:00 - 17:15</p>
+        <p>17:15 onwards</p>
     </div>
     <div class="column right">
         <p>Opening Remarks</p>
         <p>First & Second Invited Talks (+QA)</p>
         <p>Virtual Coffee/Networking Break</p>
         <p>Third & Fourth Invited Talks (+QA)</p>
+        <p>Topic Breakout Rooms</p>
         <p>Virtual Poster Session #1</p>
         <p>Lunch Break</p>
         <p>Demonstrations / Interactive Activity</p>
