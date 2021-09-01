@@ -60,7 +60,7 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <p>16:10 - 16:35</p>
         <p>16:35 - 18:00</p>
         <p>18:00 - 18:20</p>
-        <p>18:20 onwards</p>
+        <p>18:20 onward</p>
     </div>
     <div class="column right">
         <p>Opening Remarks</p>
