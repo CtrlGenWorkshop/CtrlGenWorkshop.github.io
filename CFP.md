@@ -5,7 +5,7 @@
 
 ## Call for Papers
 
-We invite submissions on the following topics of interest and more. Paper submission deadline: **September 27, 2021**. If you are interested in submitting a demo instead, please see [this page](demos.md) for details.
+We invite submissions on the following topics of interest and more. Paper submission deadline: **September 30, 2021** (**UPDATED**). If you are interested in submitting a demo instead, please see [this page](demos.md) for details.
 
 ### Methodology and Algorithms:
 - New methods and algorithms for controllability.
@@ -56,7 +56,7 @@ Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gm
 
 
 ## Important Dates
-- Paper Submission Deadline: **September 27, 2021**
+- Paper Submission Deadline: **September 30, 2021** (**UPDATED**)
 - Paper Acceptance Notification: October 22, 2021
 - Paper Camera-Ready Deadline: November 1, 2021
 - Workshop Date: **December 13, 2021**
