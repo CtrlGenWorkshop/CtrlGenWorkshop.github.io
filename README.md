@@ -42,31 +42,32 @@ Achieving these ambitious but important goals introduces challenges not only fro
 In this workshop, we propose to bring together researchers from the NLP, Vision, and ML communities to discuss the current challenges and explore potential directions for controllable generation and improve its quality, correctness, and diversity. As excitement about language and image generation has significantly increased recently thanks to the advent and improvement of large language models, transformer networks, and GANs, we feel this is the opportune time to hold a new workshop about this subject. We hope CtrlGen will foster discussion and interaction across NLP, Vision, and ML communities, including areas that range from structured prediction to disentanglement, and sprout fruitful cross-domain relations that may open the door for enhanced controllability in language and image generation.
 
 
-## Schedule (Tentative)
+## Schedule (Times in PST)
 
 <div class="row">
     <div class="column left">
-        <p>9:00 - 9:10</p>
-        <p>9:10 - 10:00</p>
-        <p>10:00 - 10:20</p>
-        <p>10:20 - 11:10</p>
-        <p>11:10 - 12:10</p>
-        <p>12:10 - 13:00</p>
-        <p>13:00 - 13:30</p>
-        <p>13:30 - 14:20</p>
-        <p>14:20 - 14:40</p>
-        <p>14:40 - 15:40</p>
-        <p>15:40 - 16:10</p>
-        <p>16:10 - 16:35</p>
-        <p>16:35 - 18:00</p>
-        <p>18:00 - 18:20</p>
-        <p>18:20 onward</p>
+        <p>8:00 - 8:10</p>
+        <p>8:10 - 9:00</p>
+        <p>9:00 - 9:50</p>
+        <p>9:50 - 10:10</p>
+        <p>10:10 - 11:30</p>
+        <p>11:30 - 12:30</p>
+        <p>12:30 - 13:30</p>
+        <p>13:30 - 13:50</p>
+        <p>13:50 - 14:40</p>
+        <p>14:40 - 15:00</p>
+        <p>15:00 - 16:00</p>
+        <p>16:00 - 16:20</p>
+        <p>16:20 - 16:45</p>
+        <p>16:45 - 17:00</p>
+        <p>17:00 onward</p>
     </div>
     <div class="column right">
         <p>Opening Remarks</p>
         <p>First & Second Invited Talks (+QA)</p>
-        <p>Virtual Coffee/Networking Break</p>
         <p>Third & Fourth Invited Talks (+QA)</p>
+        <p>Virtual Coffee/Networking Break</p>
+        <p>Panel and QA Session</p>
         <p>Virtual Poster Session #1</p>
         <p>Lunch Break</p>
         <p>Demonstrations / Interactive Activity</p>
@@ -75,13 +76,11 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <p>Virtual Poster Session #2</p>
         <p>Demonstrations / Interactive Activity</p>
         <p>Seventh Invited Talk (+QA)</p>
-        <p>Panel and QA Session with Speakers</p>
         <p>Best Paper Awards and Closing Remarks</p>
         <p>GatherTown Open (for continued socializing)</p>
     </div>
 </div>
 
-Note that the above times are American timezone, e.g. PST.
 
 ## Invited Speakers and Panelists
 
