@@ -27,7 +27,7 @@ Please see our [call for papers](CFP.md) and [call for demonstrations](demos.md)
 - Paper Acceptance Notification: October 22, 2021
 - Paper Camera-Ready Deadline: November 1, 2021
 - Demo Submission Deadline: **November 19, 2021** (**UPDATED**)
-- Demo Acceptance Notification: November 19, 2021
+- Demo Acceptance Notification: December 3, 2021
 - Workshop Date: **December 13, 2021**
 
 Note that the above deadlines are all 11:59pm AOE.
