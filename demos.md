@@ -5,7 +5,7 @@
 
 ## Call for Demonstrations
 
-We invite submissions for demonstrations of controllable generation systems for both text and vision. Submission deadline: **November 26, 2021** (**UPDATED**). If you are interested in submitting a paper instead, please see [this page](CFP.md) for details.
+We invite submissions for demonstrations of controllable generation systems for both text and vision. Submission deadline: **November 26, 2021**. If you are interested in submitting a paper instead, please see [this page](CFP.md) for details.
 
 We encourage demonstrations of all forms. This includes those for research and academic-related endeavors, but also demos of products, interesting and creative projects, and so forth. The main criteria for demonstrations will be how creative, well-presented, and attention-grabbing they are. Examples include the following:
 
