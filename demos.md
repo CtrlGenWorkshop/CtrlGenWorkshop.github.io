@@ -26,7 +26,7 @@ Please record a brief (e.g. 3-5 minute) video showcasing and explaining your dem
 
 
 ## Important Dates
-- Demo Submission Deadline: **November 26, 2021** (**UPDATED**)
+- Demo Submission Deadline: **November 26, 2021**
 - Demo Acceptance Notification: December 3, 2021
 - Workshop Date: **December 13, 2021**
 
