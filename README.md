@@ -48,8 +48,8 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
     <div class="column left">
         <p>8:00 - 8:10</p>
         <p>8:10 - 9:00</p>
-        <p>9:00 - 9:50</p>
-        <p>9:50 - 10:10</p>
+        <p>9:00 - 9:55</p>
+        <p>9:55 - 10:10</p>
         <p>10:10 - 11:30</p>
         <p>11:30 - 12:30</p>
         <p>12:30 - 13:30</p>
