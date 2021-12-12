@@ -11,3 +11,20 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="“width=800”">
 </head>
+
+## Accepted Demos
+
+<video width="400" height="250" controls>
+  <source src="demos/neurips-demo-track-nov17-720p.mov" type="video/mov">
+Your browser does not support the video tag.
+</video>
+
+<video width="400" height="250" controls>
+  <source src="demos/CtrlGenDemo/paraphrase_demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="400" height="250" controls>
+  <source src="demos/Robinson_Brown_CtrlGen.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
