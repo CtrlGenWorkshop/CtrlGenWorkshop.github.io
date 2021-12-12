@@ -9,6 +9,8 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
+## Accepted Papers
+
 **Sound-Guided Semantic Image Manipulation** \[[paper](camready/4/CameraReady/Sound-guided semantic image manipulation.pdf)\] \[[supplemental](camready/4/CameraReady/Sound-guided semantic image manipulation supplementary.pdf)\]\
 Seung Hyun Lee, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim
 
