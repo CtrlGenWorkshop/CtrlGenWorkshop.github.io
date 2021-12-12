@@ -9,8 +9,8 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
-Sound-Guided Semantic Image Manipulation [paper](camready/4/CameraReady/Sound-guided semantic image manipulation.pdf) [supplemental](camready/4/CameraReady/Sound-guided semantic image manipulation supplementary.pdf)
+Sound-Guided Semantic Image Manipulation \[[paper]\](camready/4/CameraReady/Sound-guided semantic image manipulation.pdf) \[[supplemental]\](camready/4/CameraReady/Sound-guided semantic image manipulation supplementary.pdf)\
 Seung Hyun Lee, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim
 
-PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided Decoding [paper](camready/9/CameraReady/PPL_MCTS_CTRLGen_Camera_Ready.pdf)
+PPL-MCTS: Constrained Textual Generation Through Discriminator-Guided Decoding \[[paper]\](camready/9/CameraReady/PPL_MCTS_CTRLGen_Camera_Ready.pdf)\
 Antoine Chaffin, Vincent Claveau, Ewa Kijak
