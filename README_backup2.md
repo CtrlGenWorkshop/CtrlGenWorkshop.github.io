@@ -13,7 +13,7 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
-CtrlGen is a **[NeurIPS 2021](https://neurips.cc/Conferences/2021/)** workshop taking place virtually on **Monday, December 13, 2021** [here](https://neurips.cc/virtual/2021/workshop/21886). NOTE: you must be registered for the NeurIPS 2021 conference to view the link and attend the workshop. It aims to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
+CtrlGen is a **[NeurIPS 2021](https://neurips.cc/Conferences/2021/)** workshop taking place virtually on **Monday, December 13, 2021**. It aims to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We feature an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
 
 Contact: [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com)
 
@@ -26,8 +26,8 @@ Please see our [call for papers](CFP.md) and [call for demonstrations](demos.md)
 - ~~Paper Submission Deadline: October 3, 2021~~
 - ~~Paper Acceptance Notification: October 25, 2021~~
 - ~~Paper Camera-Ready Deadline: November 5, 2021~~
-- ~~Demo Submission Deadline: November 26, 2021~~
-- ~~Demo Acceptance Notification: December 3, 2021~~
+- Demo Submission Deadline: **November 26, 2021**
+- Demo Acceptance Notification: December 3, 2021
 - Workshop Date: **December 13, 2021**
 
 Note that the above deadlines are all 11:59pm AOE.
@@ -56,24 +56,26 @@ In this workshop, we propose to bring together researchers from the NLP, Vision,
         <p>13:30 - 13:50</p>
         <p>13:50 - 14:40</p>
         <p>14:40 - 15:00</p>
-        <p>15:00 - 16:20</p>
+        <p>15:00 - 16:00</p>
+        <p>16:00 - 16:20</p>
         <p>16:20 - 16:45</p>
         <p>16:45 - 17:00</p>
         <p>17:00 onward</p>
     </div>
     <div class="column right">
         <p>Opening Remarks</p>
-        <p>Invited Talks #1-2 (+QA): Jason Weston and He He</p>
-        <p>Invited Talks #3-4 (+QA): Irina Higgins and Yejin Choi</p>
+        <p>First & Second Invited Talks (+QA)</p>
+        <p>Third & Fourth Invited Talks (+QA)</p>
         <p>Virtual Coffee/Networking Break</p>
         <p>Panel and QA Session</p>
         <p>Virtual Poster Session #1</p>
         <p>Lunch Break</p>
-        <p>Demonstrations</p>
-        <p>Invited Talks #5-6 (+QA): Alex Tamkin and Or Patashnik</p>
+        <p>Demonstrations / Interactive Activity</p>
+        <p>Fifth & Sixth Invited Talks (+QA)</p>
         <p>Virtual Coffee/Networking Break</p>
         <p>Virtual Poster Session #2</p>
-        <p>Invited Talk #7 (+QA): Yulia Tsvetkov</p>
+        <p>Demonstrations / Interactive Activity</p>
+        <p>Seventh Invited Talk (+QA)</p>
         <p>Best Paper Awards and Closing Remarks</p>
         <p>GatherTown Open (for continued socializing)</p>
     </div>
