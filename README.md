@@ -1,7 +1,7 @@
 <div class="header">
   <a class="logo">CtrlGen 2021</a>
   <div class="header-right">
-    <a class="active" href="README.md">Home</a>
+    <a class="active" href="#default">Home</a>
     <a href="accepted_papers.md">Accepted Papers</a>
     <a href="accepted_demos.md">Demos</a>
   </div>
