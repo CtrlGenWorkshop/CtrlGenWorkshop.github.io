@@ -17,7 +17,7 @@
 **Hide N' Seek: A social deduction game using controllable language models**\
 Suma D Bailis, Jane Friedhoff
 
-<video width="400" height="250" controls>
+<video width="640" height="400" controls>
   <source src="demos/neurips-demo-track-nov17-720p.mov">
 Your browser does not support the video tag.
 </video>
@@ -25,7 +25,7 @@ Your browser does not support the video tag.
 **User-oriented Paraphrase Generation with Multiple Types of Constraints** \[[report](demos/CtrlGenDemo/NeurIPS_2021_Demo.pdf)\]\
 Nazanin Dehghani, Hassan Hajipoor, Jonathan Chevelu, Gwénolé Lecorvé
 
-<video width="400" height="250" controls>
+<video width="640" height="400" controls>
   <source src="demos/CtrlGenDemo/paraphrase_demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -33,7 +33,7 @@ Your browser does not support the video tag.
 **Interfacing Networks for Fine-grained Language Control**\
 Nathaniel R Robinson, Zachary C Brown
 
-<video width="400" height="250" controls>
+<video width="640" height="400" controls>
   <source src="demos/Robinson_Brown_CtrlGen.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
