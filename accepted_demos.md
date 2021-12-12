@@ -14,7 +14,7 @@
 
 ## Accepted Demos
 
-**Hide N' Seek: A social deduction game using controllable language models**
+**Hide N' Seek: A social deduction game using controllable language models**\
 Suma D Bailis, Jane Friedhoff
 
 <video width="400" height="250" controls>
@@ -30,7 +30,7 @@ Nazanin Dehghani, Hassan Hajipoor, Jonathan Chevelu, Gwénolé Lecorvé
 Your browser does not support the video tag.
 </video>
 
-**Interfacing Networks for Fine-grained Language Control**
+**Interfacing Networks for Fine-grained Language Control**\
 Nathaniel R Robinson, Zachary C Brown
 
 <video width="400" height="250" controls>
