@@ -35,16 +35,16 @@
         <p>Opening Remarks</p>
         <p>Invited Talks #1-2 (+QA): Jason Weston and He He</p>
         <p>Invited Talks #3-4 (+QA): Irina Higgins and Yejin Choi</p>
-        <p>Virtual Coffee/Networking Break (GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>)</p>
+        <p>Virtual Coffee/Networking Break [GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>]</p>
         <p>Panel and QA Session</p>
-        <p>Virtual Poster Session #1 (GatherTown <a href="https://eventhosts.gather.town/LCkewViIY569sXz7/ctrlgen-poster-session-1">Link</a>)</p>
-        <p>Lunch Break (GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>)</p>
+        <p>Virtual Poster Session #1 [GatherTown <a href="https://eventhosts.gather.town/LCkewViIY569sXz7/ctrlgen-poster-session-1">Link</a>]</p>
+        <p>Lunch Break [GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>]</p>
         <p>Demonstrations</p>
         <p>Invited Talks #5-6 (+QA): Alex Tamkin and Or Patashnik</p>
-        <p>Virtual Coffee/Networking Break (GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>)</p>
-        <p>Virtual Poster Session #2 (GatherTown <a href="https://eventhosts.gather.town/LCkewViIY569sXz7/ctrlgen-poster-session-1">Link</a>)</p>
+        <p>Virtual Coffee/Networking Break [GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>]</p>
+        <p>Virtual Poster Session #2 [GatherTown <a href="https://eventhosts.gather.town/LCkewViIY569sXz7/ctrlgen-poster-session-1">Link</a>]</p>
         <p>Invited Talk #7 (+QA): Yulia Tsvetkov</p>
         <p>Best Paper Awards and Closing Remarks</p>
-        <p>GatherTown Open (for continued socializing) (GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>)</p>
+        <p>GatherTown Open (for continued socializing) [GatherTown <a href="https://eventhosts.gather.town/565tdbNQmjvSsRTY/ctrlgen21-networking">Link</a>]</p>
     </div>
 </div>
