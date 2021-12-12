@@ -6,7 +6,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="“width=800”">
+  <meta name="viewport" content="“width=1000”">
 </head>
 
 Sound-Guided Semantic Image Manipulation \[[paper](camready/4/CameraReady/Sound-guided semantic image manipulation.pdf)\] \[[supplemental](camready/4/CameraReady/Sound-guided semantic image manipulation supplementary.pdf)\]\
