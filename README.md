@@ -24,10 +24,6 @@ CtrlGen is a **[NeurIPS 2021](https://neurips.cc/Conferences/2021/)** workshop t
 Contact: [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com)
 
 
-## Call for Papers and Demonstrations
-Please see our [call for papers](CFP.md) and [call for demonstrations](demos.md) pages for details.
-
-
 ## Important Dates
 - ~~Paper Submission Deadline: October 3, 2021~~
 - ~~Paper Acceptance Notification: October 25, 2021~~
@@ -46,6 +42,10 @@ Over the past few years, there has been an increased interest in the areas of la
 Achieving these ambitious but important goals introduces challenges not only from NLP and Vision perspectives, but ones that closely pertain to Machine Learning as a whole, which has concurrently witnessed a growing body of work in relevant domains such as interpretability, disentanglement, robustness, and representation learning. We believe progress towards the realization of human-like language and image generation may benefit greatly from insights in these and other ML areas.
 
 In this workshop, we propose to bring together researchers from the NLP, Vision, and ML communities to discuss the current challenges and explore potential directions for controllable generation and improve its quality, correctness, and diversity. As excitement about language and image generation has significantly increased recently thanks to the advent and improvement of large language models, transformer networks, and GANs, we feel this is the opportune time to hold a new workshop about this subject. We hope CtrlGen will foster discussion and interaction across NLP, Vision, and ML communities, including areas that range from structured prediction to disentanglement, and sprout fruitful cross-domain relations that may open the door for enhanced controllability in language and image generation.
+
+
+## Call for Papers and Demonstrations
+Please see our [call for papers](CFP.md) and [call for demonstrations](demos.md) pages for details.
 
 
 ## Schedule (Times in PST)
