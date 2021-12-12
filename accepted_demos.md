@@ -1,7 +1,7 @@
 <div class="header">
-  <a class="active" href="https://ctrlgenworkshop.github.io/">Home</a>
+  <a href="https://ctrlgenworkshop.github.io/">Home</a>
   <a href="https://ctrlgenworkshop.github.io/accepted_papers.html">Accepted Papers</a>
-  <a href="https://ctrlgenworkshop.github.io/accepted_demos.html">Demos</a>
+  <a class="active" href="https://ctrlgenworkshop.github.io/accepted_demos.html">Demos</a>
 </div>
 
 <head>
