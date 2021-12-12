@@ -12,7 +12,20 @@
   <meta name="viewport" content="“width=800”">
 </head>
 
-## Accepted Papers
+## Best Paper
+
+**Controlled Cue Generation for Play Scripts** \[[paper](camready/15/CameraReady/ctrlgen_camera_ready.pdf)\]\
+Alara Dirik, Hilal Donmez, Pinar Yanardag
+
+## Outstanding Papers
+
+**Learning to Compose Visual Relations** \[[paper](camready/31/CameraReady/compose_visual_relations_camera_ready_Workshop.pdf)\]\
+Nan Liu, Shuang Li, Yilun Du, Joshua B. Tenenbaum, Antonio Torralba
+
+**MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling** \[[paper](camready/41/CameraReady/Yusong_NeurIPS__2021_ControlGen_workshop_revised_11.2.pdf)\]\
+Yusong Wu, Ethan Manilow, Yi Deng, Rigel Swavely, Kyle Kastner, Tim Cooijmans, Aaron Courville, Cheng-Zhi Anna Huang, Jesse Engel
+
+## All Accepted Papers
 
 **Sound-Guided Semantic Image Manipulation** \[[paper](camready/4/CameraReady/Sound-guided semantic image manipulation.pdf)\] \[[supplemental](camready/4/CameraReady/Sound-guided semantic image manipulation supplementary.pdf)\]\
 Seung Hyun Lee, Sang Ho Yoon, Jinkyu Kim, Sangpil Kim
