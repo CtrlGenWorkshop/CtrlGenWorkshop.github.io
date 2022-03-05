@@ -24,7 +24,7 @@
 
 CtrlGen is a **[NeurIPS 2021](https://neurips.cc/Conferences/2021/)** workshop that took place virtually on **Monday, December 13, 2021** [here](https://neurips.cc/virtual/2021/workshop/21886). It aimed to explore disentanglement, controllability, and manipulation for the generative vision and language modalities. We featured an exciting lineup of speakers, a live QA and panel session, interactive activities, and networking opportunities.
 
-**UPDATE (Feb. 2022)**: the recording for our workshop is now publicly available [here](https://neurips.cc/virtual/2021/workshop/21886)! It starts at around 35 minutes into the main recording.
+**UPDATE (Feb. 2022)**: the **recording** of our workshop is now publicly available [here](https://neurips.cc/virtual/2021/workshop/21886)! It starts at around 35 minutes into the main recording.
 
 Contact: [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gmail.com)
 
