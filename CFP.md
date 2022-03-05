@@ -68,6 +68,6 @@ Feel free to contact us at [ctrlgenworkshop@gmail.com](mailto:ctrlgenworkshop@gm
 - ~~Paper Submission Deadline: October 3, 2021~~
 - ~~Paper Acceptance Notification: October 25, 2021~~
 - ~~Paper Camera-Ready Deadline: November 5, 2021~~
-- Workshop Date: **December 13, 2021**
+- ~~Workshop Date: **December 13, 2021**~~
 
 Note that the above deadlines are all 11:59pm AOE.
